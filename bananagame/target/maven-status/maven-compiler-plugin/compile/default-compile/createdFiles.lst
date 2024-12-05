@@ -1,0 +1,7 @@
+org\example\bananagame\engine\Game.class
+org\example\bananagame\CORSFilter.class
+org\example\bananagame\HelloResource.class
+org\example\bananagame\UserModel.class
+org\example\bananagame\AuthResource.class
+org\example\bananagame\HelloApplication.class
+org\example\bananagame\engine\GameServer.class
